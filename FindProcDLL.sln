@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FindProcDLL", "FindProcDLL.vcxproj", "{6A7B16CB-4F34-4BE2-A40E-97497AF92305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ANSI  Debug|x86 = ANSI  Debug|x86
+		ANSI|x86 = ANSI|x86
+		Unicode Debug|x86 = Unicode Debug|x86
+		Unicode|x86 = Unicode|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.ANSI  Debug|x86.ActiveCfg = ANSI Debug|Win32
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.ANSI  Debug|x86.Build.0 = ANSI Debug|Win32
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.ANSI|x86.ActiveCfg = ANSI|Win32
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.ANSI|x86.Build.0 = ANSI|Win32
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.Unicode Debug|x86.ActiveCfg = Unicode Debug|Win32
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.Unicode Debug|x86.Build.0 = Unicode Debug|Win32
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.Unicode|x86.ActiveCfg = Unicode|Win32
+		{6A7B16CB-4F34-4BE2-A40E-97497AF92305}.Unicode|x86.Build.0 = Unicode|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B30CB7C-077E-4CEA-9AE0-C81379B48C8A}
+	EndGlobalSection
+EndGlobal
